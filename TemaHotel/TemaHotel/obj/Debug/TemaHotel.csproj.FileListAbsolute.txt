@@ -1,0 +1,42 @@
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\bin\Debug\TemaHotel.exe.config
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\TemaHotel.csprojResolveAssemblyReference.cache
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\MainWindow.baml
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\MainWindow.g.cs
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\App.g.cs
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\TemaHotel_MarkupCompile.cache
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\TemaHotel.g.resources
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\TemaHotel.Properties.Resources.resources
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\TemaHotel.csproj.GenerateResource.Cache
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\bin\Debug\TemaHotel.exe
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\bin\Debug\TemaHotel.pdb
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\bin\Debug\EntityFramework.dll
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\bin\Debug\EntityFramework.SqlServer.dll
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\bin\Debug\EntityFramework.xml
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\bin\Debug\EntityFramework.SqlServer.xml
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\TemaHotel.exe
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\TemaHotel.pdb
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\TemaHotel_MarkupCompile.lref
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\SignUp.baml
+D:\facultate\an II\medii vizuale sasu nanau\TemaHotel\TemaHotel\obj\Debug\SignUp.g.cs
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\bin\Debug\TemaHotel.exe.config
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\TemaHotel.exe
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\TemaHotel.pdb
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\bin\Debug\TemaHotel.exe
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\bin\Debug\TemaHotel.pdb
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\bin\Debug\EntityFramework.dll
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\bin\Debug\EntityFramework.SqlServer.dll
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\bin\Debug\EntityFramework.xml
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\bin\Debug\EntityFramework.SqlServer.xml
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\TemaHotel.csprojResolveAssemblyReference.cache
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\SignUp.baml
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\MainWindow.g.cs
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\SignUp.g.cs
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\App.g.cs
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\TemaHotel_MarkupCompile.cache
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\TemaHotel_MarkupCompile.lref
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\MainWindow.baml
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\TemaHotel.g.resources
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\TemaHotel.Properties.Resources.resources
+D:\facultate\medii vizuale sasu nanau\TemaHotev1l\TemaHotel\TemaHotel\obj\Debug\TemaHotel.csproj.GenerateResource.Cache
